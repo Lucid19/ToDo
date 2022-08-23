@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucid19/ToDo.git"
+  },
+  "author": "lucid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucid19/ToDo/issues"
+  },
+  "homepage": "https://github.com/Lucid19/ToDo#readme",
+  "dependencies": {
+    "reactjs": "^1.0.0"
+  }
+}
